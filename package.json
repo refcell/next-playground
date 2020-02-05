@@ -20,7 +20,7 @@
     "styled-jsx": "^3.2.2"
   },
   "devDependencies": {
-    "@types/next": "^7.0.6",
+    "@types/next": "^9.0.0",
     "@types/react": "^16.4.16",
     "@types/react-dom": "16.0.11",
     "@types/styled-jsx": "^2.2.8",
