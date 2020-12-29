@@ -16,7 +16,7 @@
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-markdown": "^4.2.2",
-    "reactstrap": "^8.0.1",
+    "reactstrap": "^8.8.1",
     "styled-jsx": "^3.2.2"
   },
   "devDependencies": {
